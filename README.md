@@ -1,6 +1,6 @@
 # GenericHold
 
-[![Go](https://github.com/rlshukhov/generichold/actions/workflows/go.yml/badge.svg)]
+![Go](https://github.com/rlshukhov/generichold/actions/workflows/go.yml/badge.svg)
 
 GenericHold is [BadgerHold](https://github.com/timshannon/badgerhold) extension provided simplest, generics-powered, type-safe API.
 
